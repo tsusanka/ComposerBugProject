@@ -9,9 +9,11 @@
 
 	"require": {
 		"php": ">= 5.3.7",
-		"nette": "2.1.*",
-		"composer-bug-package": "*"
+		"nette/nette": "2.0.*",
+		"tsusanka/composer-bug-package": "*"
 	},
+
+	"minimum-stability": "dev",
 
 	"repositories": [
 		{
