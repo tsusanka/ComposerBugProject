@@ -9,6 +9,14 @@
 
 	"require": {
 		"php": ">= 5.3.7",
-		"nette": "2.1.*"
-	}
+		"nette": "2.1.*",
+		"composer-bug-package": "*"
+	},
+
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/tsusanka/ComposerBugPackage.git"
+		}
+	]
 }
