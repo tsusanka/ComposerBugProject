@@ -1,0 +1,14 @@
+{
+	"name": "tsusanka/composer-bug-project",
+	"description": "Project's composer.json",
+	"authors": [
+		{
+			"name": "Tomas Susanka"
+		}
+	],
+
+	"require": {
+		"php": ">= 5.3.7",
+		"nette": "2.1.*"
+	}
+}
